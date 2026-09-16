@@ -1,0 +1,4 @@
+interface:
+  display_name: "396经综论说文批改"
+  short_description: "按18分上限先定档再评分，逐段检查经综论说文的逻辑漏洞并给出修改"
+  default_prompt: "请使用 $econ396-essay-grader 按我的评分标准批改以下396经综论说文，先定档再评分，重点查找逻辑漏洞并给出具体修改；未附题目材料时请标注暂定评分。"

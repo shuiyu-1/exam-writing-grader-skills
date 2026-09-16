@@ -1,0 +1,4 @@
+interface:
+  display_name: "论证有效性分析批改"
+  short_description: "须提供材料与作文，按管综30分或经综20分核验分析要点并批改"
+  default_prompt: "请使用 $argument-validity-grader 批改我的论证有效性分析作文，必须核对原题材料和文章，分别评定内容与论证结构语言，经综按20分同比例换算；缺少材料或文章时先请我补充。"
