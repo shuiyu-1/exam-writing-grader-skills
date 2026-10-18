@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研英语二作文批改"
+  short_description: "按英语二A节10分、B节15分先定档再批改，附逐句修改与参考范文"
+  default_prompt: "请使用 $english2-writing-grader 批改我的考研英语二作文。依据完整题目和原作先定档再评分，A节满分10分、B节满分15分，核对任务要点、语言和字数，给出具体修改，并附符合原题要求的英文参考范文。"
